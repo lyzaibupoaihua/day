@@ -1,0 +1,7 @@
+/*居中*/
+	/*左右垂直居中*/
+ auto{
+ 	display: table-cell;
+ 	text-align: center;
+ 	vertical-align': middle
+ }
